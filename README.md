@@ -3,9 +3,6 @@ This is a simple website for a friend small business.
 
 I created this to practice Javascript, HTML, CSS & Some Node JS however when i hosted @ hostinger i used the wrong server type so it didnt need any back-ending i used form spree to send clients. This was one of my first projects i even managed to generate over 20 clients first month!
 
-### Link
-https://www.americanlimousine.co.uk/
-
 ### Features :
 In this website users can :
 <ul>
@@ -14,6 +11,10 @@ In this website users can :
 <li>Mobile friendly.</li>
 <li>Live with a domain.</li>
 </ul>
+
+
+### Link:
+https://www.americanlimousine.co.uk/
 
 ### Technologies used:
 <ul>
